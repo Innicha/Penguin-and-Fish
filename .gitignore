@@ -1,5 +1,12 @@
+# Java compiled files
 *.class
+
+# Temporary files
+tempCodeRunnerFile.java
+
+# Mac
 .DS_Store
-bin/
-build/
-out/
+
+# IDE
+.vscode/
+.idea/
